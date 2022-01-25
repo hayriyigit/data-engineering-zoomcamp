@@ -1,2 +1,5 @@
 ny_taxi_postgres_data
 .gcloud
+.ipynb_checkpoints
+.terraform
+.terraform.lock.hcl
