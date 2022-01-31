@@ -6,7 +6,7 @@
 -  [x]  Docker and docker-compose
 -  [x]  Running Postgres locally with Docker
 -  [x]  Setting up infrastructure on GCP with Terraform
--  [ ]  Preparing the environment for the course
+-  [x]  Preparing the environment for the course
 -  [x]  Homework
 
 
@@ -14,13 +14,13 @@
 Goal: Orchestrating a job to ingest web data to a Data Lake in its raw form.
    
 -  Data Lake (GCS)
-    -   Basics, What is a Data Lake
-    -   ELT vs. ETL
+    -  [x] Basics, What is a Data Lake
+    -  [x] ELT vs. ETL
     -   Alternatives to components (S3/HDFS, Redshift, Snowflake etc.)
 -  Orchestration (Airflow) 
     -   Basics
-        -   What is an Orchestration Pipeline?
-        -   What is a DAG?
+        -   [x] What is an Orchestration Pipeline?
+        -   [x] What is a DAG?
 
 
 ### [Week 3: Data Warehouse](#)
