@@ -10,7 +10,7 @@
 -  [x]  Homework
 
 
-### [Week 2: Data ingestion](week_2_data_ingestion)
+### [Week 2: Data ingestion](https://github.com/hayriyigit/data-engineering-zoomcamp/tree/main/Week-2)
 Goal: Orchestrating a job to ingest web data to a Data Lake in its raw form.
    
 -  Data Lake (GCS)
