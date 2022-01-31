@@ -3,3 +3,9 @@ ny_taxi_postgres_data
 .ipynb_checkpoints
 .terraform
 .terraform.lock.hcl
+Week-2/airflow/logs
+Week-2/airflow/dags/__pycache__/
+
+*.backup
+
+*.tfstate
